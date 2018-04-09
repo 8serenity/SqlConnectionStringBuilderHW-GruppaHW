@@ -1,0 +1,1 @@
+c:\users\8\documents\visual studio 2015\Projects\SqlConnectionStringBuilderHW+GruppaHW\SqlConnectionStringBuilderHW+GruppaHW\bin\Debug\SqlConnectionStringBuilderHW+GruppaHW.exe.config
